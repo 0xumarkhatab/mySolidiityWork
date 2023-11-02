@@ -1,7 +1,7 @@
 # A sneak peek into my Solidity Work
 
 This repository contains references to one of the best works in solidity that is memorable to me! <br/>
-Just an indication of my confidance with Solidity! <br/>
+Just an indication of my confidence in Solidity! <br/>
 **Note:-** This list is not exhaustive as I did a lot of work and did not essentially save everything:-;
 
 ## Public Work
@@ -10,7 +10,8 @@ Just an indication of my confidance with Solidity! <br/>
 | ------ | --- | -------------------- |------------|
 | Protocol Engineering - RentWeb3 | A web3 protocol to launch and rent Dapps and NFTs | >2000 | [Check here](https://github.com/rentweb3/RentWeb3-code/tree/master/contracts)
 | Protocol Engineering - Anyswap  | A cross-evm-chains swap implementation using 5 tokens at a time | >=1000 | [Check here](https://github.com/0xumarkhatab/AnyChainSwap/tree/master/contracts) |
-| Protocol Engineering - ETH-BSC Bridge | Making a Bridge between ETH BSC using signature verification| >=100 | [Check here](https://github.com/0xumarkhatab/ETH-BSC-Swap-Bridge-using-Signature-Verfication/tree/master/contracts) |
+| Protocol Engineering - ETH-BSC Bridge Signature-based | Making a Bridge between ETH BSC using signature verification| >=100 | [Check here](https://github.com/0xumarkhatab/ETH-BSC-Swap-Bridge-using-Signature-Verfication/tree/master/contracts) |
+
 | Individual | Tried to implement Uniswap math intensive AMM | 406 | [Check here](https://github.com/0xumarkhatab/StableSwap/tree/main/contracts) |
 
 
